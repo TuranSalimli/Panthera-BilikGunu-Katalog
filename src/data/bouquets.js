@@ -6,6 +6,21 @@ const bouquets = [
   { id: 5, name: "Morning Class", price: "50 AZN", category: "universal", image: "/images/IMG_9394.JPG.jpeg" },
   { id: 7, name: "Little Scholar", price: "40 AZN", category: "universal", image: "/images/IMG_1262.jpg" },
   { id: 8, name: "First Bell", price: "45 AZN", category: "universal", image: "/images/IMG_1254.jpg" },
+  { id: 9, name: "Academic Bloom", price: "45 AZN", category: "universal", image: "/images/WhatsApp Image 2026-08-21 at 22.58.49 (1).jpeg" },
+  { id: 10, name: "First Bell Pastels", price: "40 AZN", category: "boys", image: "/images/WhatsApp Image 2026-08-21 at 22.58.49.jpeg" },
+  { id: 11, name: "Scholastic Pink", price: "45 AZN", category: "girls", image: "/images/WhatsApp Image 2026-08-21 at 23.02.21.jpeg" },
+  { id: 12, name: "Classroom Hydrangea", price: "45 AZN", category: "girls", image: "/images/WhatsApp Image 2026-08-21 at 23.02.22.jpeg" },
+  { id: 13, name: "Bright Knowledge", price: "50 AZN", category: "universal", image: "/images/WhatsApp Image 2026-08-21 at 22.58.49 (2).jpeg" },
+  { id: 14, name: "Little Scholar Trio", price: "30&50 AZN", category: "boys", image: "/images/WhatsApp Image 2026-08-21 at 23.02.22 (1).jpeg" },
+  { id: 15, name: "Crimson Honor", price: "40 AZN", category: "boys", image: "/images/IMG_1407.jpg" },
+  { id: 16, name: "Ivory Wisdom", price: "35 AZN", category: "universal", image: "/images/IMG_1383.jpg" },
+  { id: 17, name: "Magenta Hydrangea", price: "30 AZN", category: "girls", image: "/images/IMG_1390.jpg" },
+  { id: 18, name: "Fresh Mint Roses", price: "35 AZN", category: "universal", image: "/images/IMG_1395.jpg" },
+  { id: 19, name: "Soft Lilac Harmony", price: "30 AZN", category: "universal", image: "/images/IMG_1403.jpg" },
+  { id: 20, name: "Blush Globe", price: "55 AZN", category: "girls", image: "/images/IMG_1413.jpg" },
+  { id: 21, name: "Vintage Parchment", price: "40 AZN", category: "universal", image: "/images/IMG_1415.jpg" },
+  { id: 22, name: "Back to School Pink", price: "20 AZN", category: "girls", image: "/images/IMG_1377.jpg" },
 ];
+
 
 export default bouquets;
