@@ -27,7 +27,14 @@ const bouquets = [
   { id: 27, name: "Back to School Bloom Box", price: "130 AZN", category: "school", image: "/images/130 Back to School box .jpg.jpeg" },
   { id: 28, name: "School Day Duo", price: "50 AZN", category: "school", image: "/images/50 school day.jpg.jpeg" },
   { id: 29, name: "Hydrangea Classroom Duo", price: "70 AZN", category: "school", image: "/images/70 2 Hydrangea .jpg.jpeg" },
+  { id: 253, name: "Academic Pencil & Lily Bouquet", price: "55 AZN", category: "school", image: "/images/IMG_1874.jpg" },
+  { id: 254, name: "Sunflower & Rose Academic Bouquet", price: "55 AZN", category: "school", image: "/images/IMG_1876.jpg" },
+  { id: 255, name: "Notebook Pink Hydrangea Bouquet", price: "55 AZN", category: "school", image: "/images/IMG_1821.jpg" },
+  { id: 256, name: "Notebook Blue Hydrangea Bouquet", price: "55 AZN", category: "school", image: "/images/IMG_1822.jpg" },
+  { id: 257, name: "Academic Pencil & Hydrangea Pair", price: "105 AZN", category: "school", image: "/images/IMG_1880.jpg" },
+  { id: 258, name: "Notebook Hydrangea School Duo", price: "110 AZN", category: "school", image: "/images/IMG_1819.jpg" },
 ];
+
 
 
 export default bouquets;
