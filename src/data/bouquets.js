@@ -7,7 +7,7 @@ const bouquets = [
   { id: 7, name: "Little Scholar", price: "40 AZN", category: "universal", image: "/images/IMG_1262.jpg" },
   { id: 8, name: "First Bell", price: "45 AZN", category: "universal", image: "/images/IMG_1254.jpg" },
   { id: 9, name: "Academic Bloom", price: "45 AZN", category: "universal", image: "/images/WhatsApp Image 2026-08-21 at 22.58.49 (1).jpeg" },
-  { id: 10, name: "First Bell Pastels", price: "40 AZN", category: "boys", image: "/images/WhatsApp Image 2026-08-21 at 22.58.49.jpeg" },
+  { id: 10, name: "First Bell Pastels", price: "50 AZN", category: "boys", image: "/images/WhatsApp Image 2026-08-21 at 22.58.49.jpeg" },
   { id: 11, name: "Scholastic Pink", price: "45 AZN", category: "girls", image: "/images/WhatsApp Image 2026-08-21 at 23.02.21.jpeg" },
   { id: 12, name: "Classroom Hydrangea", price: "45 AZN", category: "girls", image: "/images/WhatsApp Image 2026-08-21 at 23.02.22.jpeg" },
   { id: 13, name: "Bright Knowledge", price: "50 AZN", category: "universal", image: "/images/WhatsApp Image 2026-08-21 at 22.58.49 (2).jpeg" },
